@@ -1,12 +1,12 @@
-# CV_Example
+# CV_LeryieTorres
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Leryie Loriana Torres Bautista
+**Profesión:** _Analista y desarrolladora de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 321 932 7686
+- **Email:** [correo@ejemplo.com](torresleryie.23@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
