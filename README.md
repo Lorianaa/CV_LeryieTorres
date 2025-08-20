@@ -6,8 +6,8 @@
 
 ## 📞 Contacto
 - **Teléfono:** +57 321 932 7686
-- **Email:** [correo@ejemplo.com](torresleryie.23@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [torresleryie.23@gmail.com]
+- **LinkedIn:** (https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_
